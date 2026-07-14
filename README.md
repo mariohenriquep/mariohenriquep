@@ -10,10 +10,11 @@ ownership, problem-solving and teamwork from that experience.
 ## Tech I use
 Java · REST APIs · HATEOAS · OOP · Git · GitHub · Docker · Vagrant · Ansible · Jenkins · SQL · Scrum · Agile
 
-## What I'm working on
-🔭 MiteLovers API — Java backend marketplace platform (REST + HATEOAS) — academic project
+## What I've worked on
 
-📚 Deepening my skills in DevOps, CI/CD and security best practices
+MiteLovers API — Java backend marketplace platform (REST + HATEOAS) — academic project
+
+Deepening my skills in DevOps, CI/CD and security best practices
 
 ## Contact
 [LinkedIn](https://linkedin.com/in/mariohenriquep)
