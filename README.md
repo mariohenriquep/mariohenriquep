@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, sou o Mário Henrique 👋
 
-<!--
-**mariohenriquep/mariohenriquep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer em transição de carreira, completei a pós-graduado
+em Desenvolvimento de Software (SwitCH Dev) no ISEP.
 
-Here are some ideas to get you started:
+Antes de entrar em tech, passei 8+ anos a liderar equipas e coordenar projetos
+financiados numa organização com 600+ participantes — trago dessa experiência
+ownership, resolução de problemas e trabalho em equipa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que uso
+Java · REST APIs · OOP · Git · Docker · SQL · Scrum
+
+## Em que estou a trabalhar
+🔭 MiteLovers API — plataforma de marketplace backend em Java (REST + HATEOAS) - projeto Académico
+📚 A aprofundar DevOps, CI/CD e boas práticas de segurança
+
+## Contacto
+[LinkedIn](https://linkedin.com/in/mariohenriquep) · pinmariohenrique@gmail.com
