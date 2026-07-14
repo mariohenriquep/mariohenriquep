@@ -16,4 +16,4 @@ Java · REST APIs · HATEOAS · OOP · Git · GitHub · Docker · Vagrant · Ans
 📚 Deepening my skills in DevOps, CI/CD and security best practices
 
 ## Contact
-[LinkedIn](https://linkedin.com/in/mariohenriquep) · pinmariohenrique@gmail.com
+[LinkedIn](https://linkedin.com/in/mariohenriquep)
