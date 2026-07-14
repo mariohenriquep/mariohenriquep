@@ -8,10 +8,11 @@ funded projects for an organization with 600+ participants — I bring
 ownership, problem-solving and teamwork from that experience.
 
 ## Tech I use
-Java · REST APIs · OOP · Git · Docker · SQL · Scrum
+Java · REST APIs · HATEOAS · OOP · Git · GitHub · Docker · Vagrant · Ansible · Jenkins · SQL · Scrum · Agile
 
 ## What I'm working on
 🔭 MiteLovers API — Java backend marketplace platform (REST + HATEOAS) — academic project
+
 📚 Deepening my skills in DevOps, CI/CD and security best practices
 
 ## Contact
