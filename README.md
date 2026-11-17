@@ -10,9 +10,9 @@ I'm falling in love with the whole process it takes to get a service successfull
 
 | Project | What it is | Stack |
 |---------|-----------|-------|
-| [**Matriz**](https://github.com/mariohenriquep/matriz-api) · [live app](https://matriz-frontend-650f.onrender.com) | Project and task management for teams: Kanban, multiple assignees, comments, archive, secure sign-up. Built from spec to deploy with AI as a copilot and human review. | Java 21, Spring Boot 3, PostgreSQL, React, TypeScript, Docker, GitHub Actions |
-| [**RegiVolley**](https://github.com/mariohenriquep/regi-volley) 🚧 | Booking platform for amateur indoor volleyball associations: level-based groups, session booking with waitlist, plans and payments. Mobile-first PWA. | Java 21, Spring Boot 4, PostgreSQL, React, TypeScript, Tailwind |
-| [**MiteLovers**](https://github.com/mariohenriquep/MiteLovers-API) | Academic project (SWitCH Dev 2025/2026): marketplace for used books and magazines | Java 17, Spring Boot 3, React, Docker, GitHub Actions |
+| [**Matriz**](https://github.com/mariohenriquep/matriz-api) · [live app](https://matriz-frontend-650f.onrender.com) | Project and task management for teams: Kanban, multiple assignees, comments, archive, secure sign-up. Built from spec to deploy with AI as a copilot and human review. | Java 21, Spring Boot 3, PostgreSQL, React, TypeScript, Docker, GitHub |
+| [**RegiVolley**](https://github.com/mariohenriquep/regi-volley) 🚧 | Booking platform for amateur indoor volleyball associations: level-based groups, session booking with waitlist, plans and payments. Mobile-first PWA. | Java 21, Spring Boot 4, PostgreSQL, React, TypeScript, Tailwind, GitHub |
+| [**MiteLovers**](https://github.com/mariohenriquep/MiteLovers-API) | Academic project (SWitCH Dev 2025/2026): marketplace for used books and magazines | Java 17, Spring Boot 3, React, Docker, GitHub |
 
 ## Tech I use
 
