@@ -16,7 +16,7 @@ I'm falling in love with the whole process it takes to get a service successfull
 
 ## Tech I use
 
-Java · Spring Boot · REST APIs · HATEOAS · OOP · PostgreSQL · React · TypeScript · Git · GitHub Actions · Docker · Vagrant · Ansible · Jenkins · SQL · Scrum · Agile
+Java · Spring Boot · REST APIs · OOP · PostgreSQL · React · JavaScript · Git · GitHub · Docker · Vagrant · Ansible · Jenkins · SQL · Scrum · Agile · LLM Agents
 
 Currently deepening my skills in DevOps, CI/CD and security best practices.
 
